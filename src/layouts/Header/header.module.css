@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+
+}
+
+
+.logo {
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.title {
+    color: rgb(250, 82, 60);
+    margin-top: 15px;
+
+}
